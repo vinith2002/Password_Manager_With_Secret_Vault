@@ -6,7 +6,7 @@ This is my first ever python project and kinda my best and my most favourite pro
 
 Basically This is a fully functional Password Manager that possesses almost all the features an ideal Password Manager should have (except a very few).
 
-<img src="./images/Main-Screen.png" alt="Main Screen" width="500"/>
+<img src="./images/Main-Screen.png" alt="Main-Screen" width="500"/>
 
 ## Some Main Features of the project
 Here are some of the key features of this Password Manager : 
@@ -32,7 +32,7 @@ Here are some of the key features of this Password Manager :
 ## Installation
 ```
 # clone this repository
-git clone https://github.com/Maneesh-Pradeep/PasswordManager.git
+git clone https://github.com/.git
 
 # Change directory
 cd PasswordManager
@@ -49,17 +49,17 @@ But if you are more concerned about the dependencies then you can always create 
 
 ## Screenshots
 
-<img src="./images/Login-Screen.png" alt="Login Screen" width="500"/>
+<img src="./images/Login-Screen.png" alt="Login-Screen" width="500"/>
 
-<img src="./images/Main-Screen.png" alt="Main Screen" width="500"/>
+<img src="./images/Main-Screen.png" alt="Main-Screen" width="500"/>
 
-<img src="./images/Add-Screen.png" alt="Add Screen" width="500"/>
+<img src="./images/Add-Screen.png" alt="Add-Screen" width="500"/>
 
-<img src="./images/View-Screen.png" alt="View Screen" width="500"/>
+<img src="./images/View-Screen.png" alt="View-Screen" width="500"/>
 
-<img src="./images/Vault-Screen.png" alt="Vault Screen" width="300"/>
+<img src="./images/Vault-Screen.png" alt="Vault-Screen" width="300"/>
 
-<img src="./images/Reset_Screen.png" alt="Reset Screen" width="500"/>
+<img src="./images/Reset_Screen.png" alt="Reset_Screen" width="500"/>
 
 ## Dependencies
 The program depends on the following third party libraries
