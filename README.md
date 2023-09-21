@@ -32,7 +32,7 @@ Here are some of the key features of this Password Manager :
 ## Installation
 ```
 # clone this repository
-git clone https://github.com/.git
+git clone https://github.com/vinith2002/Password_Manager_With_Secret_Vault.git
 
 # Change directory
 cd PasswordManager
